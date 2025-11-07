@@ -9,7 +9,4 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-weed test01
-weed test01-2
-<br>
-weed test 02-1 haha
+m5 macpro purchase - 25.11.07 fri
